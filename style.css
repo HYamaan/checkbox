@@ -16,10 +16,8 @@ html {
 }
 .check__content {
   display: inline-block;
-  text-align: center;
-}
-.check__content--label {
   width: 100%;
+  text-align: center;
 }
 
 label {
